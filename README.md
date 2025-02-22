@@ -1,13 +1,16 @@
 <h1>Hi, I'm Jacob Gorodetsky! <br/><a href="https://github.com/jgorodetsky">Cloud Security Architect</a>, <a href="https://github.com/jgorodetsky">DevSecOps Engineer</a>, <a href="https://github.com/jgorodetsky">Cybersecurity Professional</a></h1>
 
 ## 📑 Table of Contents  
-1. [🔐 Cloud Security & DevSecOps Projects](#cloud-security--devsecops-projects)  
+1. [🔐 Cloud Security & DevSecOps Projects](#cloud-security--devsecops-projects)
+   <!--  
    - [Infrastructure as Code (IaC) Security](#infrastructure-as-code-iac-security)  
    - [Cloud Security Posture Management (CSPM)](#cloud-security-posture-management-cspm)  
    - [Kubernetes Security](#kubernetes-security)  
-   - [SIEM & Threat Detection](#siem--threat-detection)  
-   - [Privileged Access Management (PAM) & Identity Security](#privileged-access-management-pam--identity-security)  
+   - [SIEM & Threat Detection](#siem--threat-detection)
    - [Security Automation & Python Scripts](#security-automation--python-scripts)  
+   -->
+   - [Privileged Access Management (PAM) & Identity Security](#privileged-access-management-pam--identity-security)  
+   
 
 ---
 <!--
