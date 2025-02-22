@@ -23,11 +23,12 @@
 ### **Kubernetes Security**   
 
 ### **SIEM & Threat Detection**  
+
+### **Security Automation & Python Scripts** 
 -->
 ### **Privileged Access Management (PAM) & Identity Security**  
 - [Azure PIM Automation: Just-in-Time Access](https://github.com/jgorodetsky/PIM-Automation) 
 
-### **Security Automation & Python Scripts** 
 
 ---
 
